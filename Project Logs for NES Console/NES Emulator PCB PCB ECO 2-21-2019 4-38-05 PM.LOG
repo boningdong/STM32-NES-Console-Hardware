@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C10 Old Footprint=RAD-0.3 New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=C13 Old Footprint=RAD-0.3 New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=C14 Old Footprint=RAD-0.3 New Footprint=CAPC1608X10N
+Added Room: Name=MCU
