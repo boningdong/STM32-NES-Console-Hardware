@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for NES Console
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FMAUCVJH
 
 [Document5]
+DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_THT_Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BDKKMNDC
+
+[Document6]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIRHMXAI
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Switches.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXMJAFCQ
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Schematic_Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCRVIROU
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Schematic_Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GISULFNW
 
-[Document11]
+[Document12]
 DocumentPath=Schematics\System Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEXPKTVM
 
-[Document12]
+[Document13]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAVTUOII
 
-[Document13]
+[Document14]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Schematic_Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNLUAFDJ
 
-[Document14]
+[Document15]
 DocumentPath=NES Emulator PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPTNNIVM
 
-[Document15]
+[Document16]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Memory.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICNSYILL
 
-[Document16]
+[Document17]
 DocumentPath=..\..\..\Google Drive\Altium-Library\Footprint_SMT_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJPQIRCU
 
-[Document17]
+[Document18]
 DocumentPath=Schematics\Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFORRLUP
 
-[Document18]
+[Document19]
 DocumentPath=Libraries\Schematic_Modules_NES.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOASNERP
 
-[Document19]
+[Document20]
 DocumentPath=Schematics\Display Module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,7 +424,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for NES Console
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -944,6 +961,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1119,6 +1141,12 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1183,6 +1211,10 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1306,6 +1338,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
